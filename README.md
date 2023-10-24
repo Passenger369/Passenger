@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Passenger69
+- 👋 Hi, I’m @Passenger
 - 👀 I’m interested in ... Python coding for data analytics and visualising numerical models
 - 🌱 I’m currently learning ... Python, QGIS, Hydraulics and Hydrology
 - 💞️ I’m looking to collaborate on ... Flood Modelling
